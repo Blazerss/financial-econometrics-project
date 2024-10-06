@@ -1,5 +1,5 @@
-# financial-econometrics-project
-This a project in Matlab for an assignemnt requested in one of my subject during my master.
+# Financial econometrics project
+This is a project in Matlab for an assignemnt requested in one of my subject during my master.
 
 I was to analyze stocks inside the EURO stoxx 50 randomly chosen after inserting the matricola number.There are 3 parts:
 
